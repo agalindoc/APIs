@@ -1,5 +1,5 @@
 [Config]
-api_key=aaabbccbbabababababahahaha
+api_key=aaabbccbbababababab_haha
 fastma_period=50
 slowma_period=100
 ema_period=10
