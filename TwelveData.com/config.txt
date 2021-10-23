@@ -1,0 +1,10 @@
+[Config]
+api_key=aaabbccbbabababababahahaha
+fastma_period=50
+slowma_period=100
+ema_period=10
+period=1min
+sleep_time=60
+write_file=1
+show_all=1
+requests_per_minute = 600

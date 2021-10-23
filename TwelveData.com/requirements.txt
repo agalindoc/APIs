@@ -1,0 +1,6 @@
+requests
+twelvedata
+pandas
+configparser
+time
+math
