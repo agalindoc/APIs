@@ -101,7 +101,7 @@ while True:
             fifty_two_weekL = quotes['fifty_two_week']['low']
             symbolRequests += 1            
         except Exception as e:
-            #print("Opps! ", format(e), "occurred.")            
+            print("Opps! ", format(e), "occurred.")            
             fifty_two_weekH = '-'
             fifty_two_weekL = '-'
             error_string = str(e)
@@ -125,7 +125,7 @@ while True:
             dataOk = True                      
 
         except Exception as e:
-            #print("Opps! ", format(e), "occurred.")               
+            print("Opps! ", format(e), "occurred.")               
             vwap    = '-'
             ma1     = '-'
             ma2     = '-'
